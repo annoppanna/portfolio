@@ -1,10 +1,10 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
-  designation: "Full-Stack Developer",
+  githubUsername: "annoppanna",
+  name: "Annop Phaopeng.",
+  designation: "Frontend Developer",
   avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
+  email: "annoppanna@gmail.com",
+  phone: "+66 800646980",
   address: "Jaipur, Rajasthan, India.",
   projects: [
     {
