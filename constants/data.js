@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "annoppanna",
   name: "Annop Phaopeng.",
   designation: "Frontend Developer",
-  avatarUrl: "/avatar.png",
+  avatarUrl: "/annop.png",
   email: "annoppanna@gmail.com",
   phone: "+66 800646980",
   address: "Jaipur, Rajasthan, India.",
