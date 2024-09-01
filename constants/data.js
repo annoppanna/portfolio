@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "annoppanna",
   name: "Annop Phaopeng.",
-  designation: "Frontend Developer",
+  designation: "Sorfware Developer",
   avatarUrl: "/annop.png",
   email: "annoppanna@gmail.com",
   phone: "+66 800646980",
